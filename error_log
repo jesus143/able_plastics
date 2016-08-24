@@ -1,0 +1,283 @@
+[12-Apr-2016 10:38:22 UTC] PHP Fatal error:  Call to a member function beginTransaction() on a non-object in /home/tpocom/public_html/tg/trade-gecko-db.php on line 17
+[12-Apr-2016 10:48:48 UTC] PHP Fatal error:  Call to a member function beginTransaction() on a non-object in /home/tpocom/public_html/tg/trade-gecko-db.php on line 18
+[12-Apr-2016 10:49:25 UTC] PHP Fatal error:  Call to a member function beginTransaction() on a non-object in /home/tpocom/public_html/tg/trade-gecko-db.php on line 18
+[22-Jun-2016 02:31:35 UTC] PHP Fatal error:  Call to a member function getLayout() on a non-object in /home/tpocom/public_html/tg/fmp-get-layouts.php on line 13
+[22-Jun-2016 02:50:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/tpocom/public_html/tg/fmp-get-layouts.php on line 38
+[22-Jun-2016 02:50:48 UTC] PHP Fatal error:  Call to a member function newAddCommand() on a non-object in /home/tpocom/public_html/tg/fmp-get-layouts.php on line 38
+[23-Jun-2016 08:52:05 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 39
+[23-Jun-2016 08:52:28 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 39
+[23-Jun-2016 08:52:32 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 39
+[23-Jun-2016 08:53:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 08:53:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 30
+[23-Jun-2016 10:25:43 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 230
+[23-Jun-2016 10:37:52 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 266
+[23-Jun-2016 10:50:55 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 266
+[24-Jun-2016 03:07:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 267
+[24-Jun-2016 03:07:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 283
+[24-Jun-2016 03:14:41 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 268
+[24-Jun-2016 03:14:41 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 284
+[24-Jun-2016 03:20:14 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 268
+[24-Jun-2016 03:20:14 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 284
+[24-Jun-2016 03:45:42 UTC] PHP Fatal error:  Call to undefined method FileMaker_Command_Edit::commit() in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 26
+[24-Jun-2016 05:46:30 UTC] PHP Fatal error:  Call to undefined method FileMaker_Error::getRecords() in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 33
+[24-Jun-2016 05:46:43 UTC] PHP Fatal error:  Call to undefined method FileMaker_Error::getRecords() in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 33
+[24-Jun-2016 05:47:02 UTC] PHP Warning:  Missing argument 2 for FileMaker_Record::setField(), called in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 39 and defined in /home/tpocom/public_html/tg/FileMaker/FileMaker/Record.php on line 152
+[24-Jun-2016 05:47:02 UTC] PHP Warning:  Illegal offset type in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/RecordImpl.php on line 95
+[24-Jun-2016 05:47:02 UTC] PHP Warning:  Illegal offset type in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/RecordImpl.php on line 96
+[24-Jun-2016 05:47:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/Command/EditImpl.php on line 11
+[24-Jun-2016 05:47:29 UTC] PHP Fatal error:  Call to undefined method FileMaker_Error::getRecords() in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 33
+[24-Jun-2016 05:48:40 UTC] PHP Fatal error:  Call to undefined method FileMaker_Error::getRecords() in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 33
+[24-Jun-2016 05:49:57 UTC] PHP Fatal error:  Call to undefined method FileMaker_Error::getRecords() in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 36
+[24-Jun-2016 05:54:56 UTC] PHP Fatal error:  Class 'App\FMP\FMP_DB_Controller' not found in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 15
+[24-Jun-2016 05:55:08 UTC] PHP Warning:  Missing argument 2 for FileMaker_Record::setField(), called in /home/tpocom/public_html/tg/fmp-get-layouts-dev.php on line 46 and defined in /home/tpocom/public_html/tg/FileMaker/FileMaker/Record.php on line 152
+[24-Jun-2016 05:55:08 UTC] PHP Warning:  Illegal offset type in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/RecordImpl.php on line 95
+[24-Jun-2016 05:55:08 UTC] PHP Warning:  Illegal offset type in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/RecordImpl.php on line 96
+[24-Jun-2016 05:55:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/Command/EditImpl.php on line 11
+[24-Jun-2016 06:05:58 UTC] PHP Fatal error:  Class 'App\FMP\FileMaker' not found in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 188
+[24-Jun-2016 06:38:49 UTC] PHP Fatal error:  Call to undefined method FileMaker_Command_Find::getCode() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 163
+[24-Jun-2016 06:39:06 UTC] PHP Fatal error:  Call to undefined method FileMaker_Command_Find::getCode() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 163
+[24-Jun-2016 06:43:39 UTC] PHP Fatal error:  Call to undefined method FileMaker_Command_Find::getCode() in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 168
+[24-Jun-2016 08:59:21 UTC] PHP Fatal error:  Call to a member function FileMaker() on a non-object in /home/tpocom/public_html/tg/fmp-process-data.php on line 17
+[24-Jun-2016 08:59:39 UTC] PHP Fatal error:  Call to a member function FileMaker() on a non-object in /home/tpocom/public_html/tg/fmp-process-data.php on line 17
+[24-Jun-2016 09:00:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 298
+[24-Jun-2016 09:00:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:07:10 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:07:10 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:16:22 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 381
+[24-Jun-2016 09:16:22 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 404
+[24-Jun-2016 09:44:12 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 381
+[24-Jun-2016 09:44:12 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 404
+[24-Jun-2016 09:45:00 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 381
+[24-Jun-2016 09:45:00 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-get-layouts-db-dev.php on line 404
+[24-Jun-2016 09:50:30 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:50:30 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:34 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:34 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:34 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:34 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:36 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:53:39 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:58:47 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:58:47 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 09:58:47 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 09:58:47 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 10:03:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 10:03:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[24-Jun-2016 10:03:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 299
+[24-Jun-2016 10:03:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/fmp-process-data-db.php on line 319
+[28-Jun-2016 07:08:47 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/FileMakerImpl.php on line 198
+[28-Jun-2016 07:08:47 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, object given in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/FileMakerImpl.php on line 339
+[28-Jun-2016 07:08:47 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/FileMakerImpl.php on line 198
+[28-Jun-2016 07:08:47 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/FileMakerImpl.php on line 339
+[28-Jun-2016 07:08:57 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/FileMakerImpl.php on line 198
+[28-Jun-2016 07:08:57 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, object given in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/FileMakerImpl.php on line 339
+[28-Jun-2016 07:08:57 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/FileMakerImpl.php on line 198
+[28-Jun-2016 07:08:57 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/tpocom/public_html/tg/FileMaker/FileMaker/Implementation/FileMakerImpl.php on line 339
